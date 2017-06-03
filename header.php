@@ -5,6 +5,8 @@
 		<meta name="viewport" content="width=device-width">
 		<title><?php bloginfo('name'); ?></title>
     <script src="https://use.fontawesome.com/e48fabcf5a.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="http://20578.tk/architect-wordpress/wp-content/themes/architect/js/smoothscroll.js"></script>
 		<?php wp_head(); ?>
 	</head>
 	
